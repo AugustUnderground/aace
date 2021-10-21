@@ -3,6 +3,28 @@
 ASCII Schematics for [AC²E](https://github.com/matthschw/ace) circuits. Created
 with [AACircuit](https://github.com/Blokkendoos/AACircuit).
 
+## OP0
+
+<p align="center">Generic Amplifier Symbol</p>
+
+```
+            VDD
+             |         
+          |\ |         
+          | \|
+  INP ----+  + 
+          |   \
+          |    \
+    B ----+ op0 >---- OUT
+          |    /
+          |   /
+  INN ----+  +
+          | /|
+          |/ |
+             |
+            VSS 
+```
+
 ## OP1
 
 <p align="center">Miller Operational Amplifier</p>
