@@ -188,6 +188,24 @@ NA
   VSS                                                                   
 ```
 
+## NAND0
+
+<p align="center">Generic NOT Gate inverter Symbol</p>
+
+```
+      +-----+
+      |  1  |
+ A ---|     |O--- Q
+      |     |
+      +-----+
+```
+
+```
+      |\
+ A ---| >O--- Q
+      |/
+```
+
 ## NAND4
 
 <p align="center">4 NAND Gate Inverter Chain</p>
