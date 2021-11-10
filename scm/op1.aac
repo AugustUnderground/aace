@@ -202,3 +202,15 @@ text:0,29,20,"MND11"
 text:0,41,20,"MND12"
 text:0,49,4,"MPCM22"
 text:0,20,4,"MPCM21"
+char:111,27,2
+char:111,47,2
+text:0,51,13,"__"
+text:0,51,12,"Rc"
+eras:1,1,57,13
+eras:1,1,58,13
+text:0,57,15,"Cc"
+text:0,51,15,"Rc"
+eras:1,1,51,12
+eras:1,1,52,12
+text:0,1,3,"VDD"
+text:0,1,33,"VSS"
